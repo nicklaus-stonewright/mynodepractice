@@ -1,0 +1,7 @@
+{
+  "mail": {
+    "password": "app1_password"
+  },
+  "DEBUG": "DEBUG",
+  "NODE_ENV": "NODE_ENV"
+}
